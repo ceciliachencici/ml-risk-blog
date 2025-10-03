@@ -17,6 +17,6 @@ Novel methods in sequence modeling, embeddings, and clustering to uncover hidden
 
 **🔬 BLOGS**
 
-https://ceciliachencici.github.io/ml-ris_blog/masked-loss-nan-demo/
+https://ceciliachencici.github.io/ml-risk-blog/masked-loss-nan-demo/
 
 
