@@ -6,11 +6,11 @@ I focus on developing scalable and production-ready models, leveraging transform
 
 🔬 Key Areas of Work
 
-Deep Learning for Risk Detection
+**Deep Learning for Risk Detection**
 Transformer-based models for fraud and anomaly detection in large-scale behavioral data.
 
-Scalable ML Systems
+**Scalable ML Systems**
 Multi-GPU training, distributed systems with Ray Core, and optimized model deployment for real-time applications.
 
-Applied Research
+**Applied Research**
 Novel methods in sequence modeling, embeddings, and clustering to uncover hidden patterns in complex datasets.
