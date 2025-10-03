@@ -1,4 +1,4 @@
-# ml-risk-cecilia.github.io
+# ml-risk-blog
 
 Welcome to my GitHub Page! Here, I showcase projects that combine machine learning, deep learning, and applied research to solve real-world challenges.
 
