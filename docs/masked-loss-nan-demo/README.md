@@ -1,9 +1,12 @@
-# Masked Loss NaN Demo
+# Masked Loss Transformer NaN Demo
 
-Minimal PyTorch example showing why masking the loss isn't enough to prevent NaN gradients when inputs already contain NaNs.
+This demo simulates NaNs introduced by position encoding in padded sequences, common in transformer-based models for risk profiling.
 
-## How to Run
+## Files
+- `main.py`: demo code
+- `data/synthetic_sequences.csv`: sample padded input
+
+## Run
 ```bash
-pip install -r requirements.txt
-python src/demo_nan_poisoning.py
+python main.py
 ```
