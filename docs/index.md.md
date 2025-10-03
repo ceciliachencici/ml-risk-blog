@@ -16,7 +16,7 @@ Multi-GPU training, distributed systems with Ray Core, and optimized model deplo
 Novel methods in sequence modeling, embeddings, and clustering to uncover hidden patterns in complex datasets.
 
 **🔬 BLOGS**
+./masked-loss-nan-demo/
 
-https://ceciliachencici.github.io/ml-risk-blog/masked-loss-nan-demo/
 
 
