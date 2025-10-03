@@ -1,4 +1,4 @@
-# ml-risk-blog
+# ML Risk Blog: Applied Deep Learning for Risk, Fraud, and Profiling
 
 Welcome to my GitHub Page! Here, I showcase projects that combine machine learning, deep learning, and applied research to solve real-world challenges.
 
@@ -15,8 +15,9 @@ Multi-GPU training, distributed systems with Ray Core, and optimized model deplo
 **Applied Research**
 Novel methods in sequence modeling, embeddings, and clustering to uncover hidden patterns in complex datasets.
 
-**🔬 BLOGS**
-./masked-loss-nan-demo/
+# 📚 My ML Risk Blog
+
+- [Masked Loss Blog](/ml-risk-blog/masked-loss-nan-demo/)
 
 
 
